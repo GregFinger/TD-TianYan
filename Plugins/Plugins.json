@@ -1,0 +1,36 @@
+{
+    "Version": 1,
+    "AllowedPlugins": {
+        "2fd5efe4": {
+            "ComputerName": "moldy.local",
+            "Plugins": {
+                "/Volumes/PLGRM/touchdesigner/~mine/Tian Yan/eye-current/Plugins/CV3FaceDetectTOP.plugin": {
+                    "Hashes": [
+                        "vSck6S2YAl+B3KNUYeSGUoiKYMTBToavLi0wcA8fH80T1bk1mNIYJyaOmKWk8VhaqQolJ8JdIQNeiKTM8dELTWr4Fw0epzjaIoOgFeWMxHWWzVcsOGjtq7SE5PrJjFvVbYgUzi5RkgK4ee2qXTeK6MNVplhZNacYb5PZte1PGJX7wOFrT6zq/rrvh8gVAWS94cY9NApjGNE2dt+4VqYBPZrx1MbSzqBfwVar3bTWcQlNn28zLju933Qpp6GDqBprrZCdkAm4x3GKZ/TV9aOrzH+O8uVG0PqI482K6hhZozQNNCT1NA2k5kM0AhMKW4PHLiMp9SndX8IlXyfzO8wWyA=="
+                    ],
+                    "AuthorName": "Da Xu",
+                    "AuthorEmail": "da.xu@wearesohappy.net"
+                },
+                "/Users/moldy/Downloads/TD-TianYan/Plugins/CV3FaceDetectTOP.plugin": {
+                    "Hashes": [
+                        "vSck6S2YAl+B3KNUYeSGUoiKYMTBToavLi0wcA8fH80T1bk1mNIYJyaOmKWk8VhaqQolJ8JdIQNeiKTM8dELTWr4Fw0epzjaIoOgFeWMxHWWzVcsOGjtq7SE5PrJjFvVbYgUzi5RkgK4ee2qXTeK6MNVplhZNacYb5PZte1PGJX7wOFrT6zq/rrvh8gVAWS94cY9NApjGNE2dt+4VqYBPZrx1MbSzqBfwVar3bTWcQlNn28zLju933Qpp6GDqBprrZCdkAm4x3GKZ/TV9aOrzH+O8uVG0PqI482K6hhZozQNNCT1NA2k5kM0AhMKW4PHLiMp9SndX8IlXyfzO8wWyA=="
+                    ],
+                    "AuthorName": "Da Xu",
+                    "AuthorEmail": "da.xu@wearesohappy.net"
+                }
+            }
+        },
+        "6794332c": {
+            "ComputerName": "DESKTOP-EP5AORR",
+            "Plugins": {
+                "C:/Users/stronghand/Desktop/TD-Tian Yan/Plugins/CV3FaceDetectTOP.dll": {
+                    "Hashes": [
+                        "wzaVOWi4fasSpF2OjxJzKLnzSov0lTskdPeW9SVp/k2hEaE8TMAxtwwEZeFaGFEgE/qj40+aP1t36IGAME1slz2zmSCv2YjfPyyqqBjUg9vUUgYTFcJsnzd1Qg4/pGw5"
+                    ],
+                    "AuthorName": "Da Xu",
+                    "AuthorEmail": "da.xu@wearesohappy.net"
+                }
+            }
+        }
+    }
+}
